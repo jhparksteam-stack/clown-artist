@@ -1,6 +1,6 @@
 /* home */
 #home {
-  background-image: url(/images/home_background.png);
+  background-image: url(public/images/home_background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -32,7 +32,7 @@
 
 /* intro */
 #intro {
-  background-image: url(/images/intro_background.png);
+  background-image: url(public/images/intro_background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -214,7 +214,7 @@
 
 /* career */
 #career {
-  background-image: url(/images/career_background.png);
+  background-image: url(public/images/career_background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -366,7 +366,7 @@
 
 /* award */
 #award {
-  background-image: url(/images/award_background.png);
+  background-image: url(public/images/award_background.png);
   background-position: right;
   background-repeat: no-repeat;
   background-size: contain;
@@ -470,7 +470,7 @@
 
 /* contact */
 #contact {
-  background-image: url(/images/contact_background.png);
+  background-image: url(public/images/contact_background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
